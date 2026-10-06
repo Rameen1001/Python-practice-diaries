@@ -1,0 +1,6 @@
+string=input("Enter a sentence")
+length=(len(string))
+print(length)
+upper=(string.upper())
+lower=(string.lower())
+print(upper,"\n",lower)
